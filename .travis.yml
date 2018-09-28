@@ -6,5 +6,6 @@ deploy:
   github-token: 52f8abf6d68df77a0a221e34a20f813781400ca8
   keep-history: true
   local-dir: target/site
+  target-branch: gh-pages
   on:
     branch: gh-pages
