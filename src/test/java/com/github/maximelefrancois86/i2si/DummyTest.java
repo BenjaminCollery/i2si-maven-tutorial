@@ -55,7 +55,7 @@ public class DummyTest {
     public void test1() {
     	
         System.out.println("Starting test 1");
-        assertFalse(1==1);
+        assertFalse(1==2);
     }
     
     @Test
