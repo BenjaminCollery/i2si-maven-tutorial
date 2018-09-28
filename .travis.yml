@@ -2,5 +2,7 @@ language: java
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: 52f8abf6d68df77a0a221e34a20f813781400ca8
+  github-token: 340157b50b937186f318f9100d1bc946fd691945
   local-dir: target/site
+  on:
+    branch: gh-pages
