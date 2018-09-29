@@ -22,8 +22,8 @@ Procédure pour tracker le projet de quelqu'un :
 1. git remote -v : donne la liste de tous les remote qu'on suit
 2. git branch anto-master antonin/master : ajoute une branche dans notre local repository (ici la branche 
    master d'antonin)
-3. git checkout anto-master : met à jour les fichiers dans le working directory pour matcher avec la version
-   stockée sur git
+3. git checkout anto-master : permet de se placer sur la branche anto-master et de replacé les fichiers du local
+   repository dans l'état de la branche anto-master (voir https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
 4. git add ....
 5. git commit -a -m"added ...."
 6. git push origin anto-master : permet de push sur la branche anto-master
