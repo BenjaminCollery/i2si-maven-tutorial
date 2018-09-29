@@ -19,7 +19,7 @@ Ensuite pas de problème pour que travis push le site sur gh-pages
 
 ## GITHUB Dernière partie du tp
 Procédure pour tracker le projet de quelqu'un :
-1. git remote -v : donne la liste de tous les remote qu'on suit
+1. git remote -v : donne la liste de toutes les branches qu'on a dans notre local repository
 2. git branch anto-master antonin/master : ajoute une branche dans notre local repository (ici la branche 
    master d'antonin)
 3. git checkout anto-master : permet de se placer sur la branche anto-master et de replacé les fichiers du local
