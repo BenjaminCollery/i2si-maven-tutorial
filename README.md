@@ -26,6 +26,7 @@ Procédure pour tracker le projet de quelqu'un :
    repository dans l'état de la branche anto-master (voir https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Les-branches-en-bref)
 4. git add ....
 5. git commit -a -m"added ...."
-6. git push origin anto-master : permet de push sur la branche anto-master
+6. git push origin anto-master : permet de push sur la branche anto-master (origin est le nom du remote , anto-master la
+   branche
 7. enfin on peut faire une PR à Antonin à partir de anto-master
 
